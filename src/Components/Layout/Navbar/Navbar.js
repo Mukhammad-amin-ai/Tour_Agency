@@ -4,8 +4,6 @@ import {
   AccordionSummary,
   Box,
   Button,
-  List,
-  ListItem,
   Typography,
 } from "@mui/material";
 import React from "react";
