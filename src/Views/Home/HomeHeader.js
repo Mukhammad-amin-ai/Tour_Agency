@@ -11,6 +11,7 @@ export default function HomeHeader() {
         backgroundImage: `url(${registan})`,
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
+        
       }}
     >
       <Navbar />
