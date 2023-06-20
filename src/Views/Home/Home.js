@@ -4,6 +4,9 @@ import HomeHeader from "./HomeHeader";
 import HomeWhy from "./HomeWhy";
 import TourPac from "./TourPac";
 import HomeMap from "./HomeMap";
+import TourStyle from "./TourStyle";
+import HomeMount from "./HomeMount";
+import HomeForm from "./HomeForm";
 
 export default function Home() {
   return (
@@ -12,6 +15,9 @@ export default function Home() {
         <HomeWhy />
         <TourPac/>
         <HomeMap/>
+        <TourStyle/>
+        <HomeMount/>
+        <HomeForm/>
       </Box>
   );
 }
