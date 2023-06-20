@@ -3,6 +3,7 @@ import React from "react";
 import HomeHeader from "./HomeHeader";
 import HomeWhy from "./HomeWhy";
 import TourPac from "./TourPac";
+import HomeMap from "./HomeMap";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
         <HomeHeader />
         <HomeWhy />
         <TourPac/>
+        <HomeMap/>
       </Box>
   );
 }
